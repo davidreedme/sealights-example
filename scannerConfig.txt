@@ -4,7 +4,7 @@
   "appName" : "${JOB_NAME}",
   "branchName" : "master",
   "buildName" : "${BUILD_NUMBER}",
-  "packagesIncluded" : "*com.example.*",
+  "packagesIncluded" : "*edu.lmu.cs.*",
   "packagesExcluded" : "",
   "filesIncluded" : "*.class",
   "filesExcluded" : "*test-classes*",
